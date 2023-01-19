@@ -27,8 +27,3 @@ Contamos com uma excelente interface e diversas Templates Personalizavéis
 
 Resilia
 
-Foto do Bruno Blanquez
-Bruno Blanquez	Foto da Yasmin Ramos
-Yasmin Ramos	Foto do Rafael Peruzini
-Rafael Peruzini	Foto do Rafael Alesson
-Rafael Alesson	Foto do toninho
