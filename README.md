@@ -23,3 +23,12 @@ Contamos com uma excelente interface e diversas Templates Personalizavéis
 ![image](https://user-images.githubusercontent.com/113525688/205652562-b6a80f79-3d3a-4a53-836e-dc1874deabc2.png)<br>
 ![image](https://user-images.githubusercontent.com/113525688/205652664-394d7098-0626-4d5a-b95b-8d62a7640a03.png)<br>
 ![image](https://user-images.githubusercontent.com/113525688/205652886-3eca8cea-3a4d-4f80-bc8f-eff1546aceba.png)<br>
+
+
+Resilia
+
+Foto do Bruno Blanquez
+Bruno Blanquez	Foto da Yasmin Ramos
+Yasmin Ramos	Foto do Rafael Peruzini
+Rafael Peruzini	Foto do Rafael Alesson
+Rafael Alesson	Foto do toninho
